@@ -1,0 +1,11 @@
+# PyTorcha CUDA 12.4
+--index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+
+# normal
+opencv-python==4.12.0.88
+numpy==2.2.6
+ultralytics==8.4.51
+websockets==16.0
